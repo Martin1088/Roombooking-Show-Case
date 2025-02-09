@@ -1,7 +1,25 @@
+# Examen project Real-Time Room Booking and Occupancy
+
+show case with out [Samply.Beam](https://github.com/samply/beam)
+
+## Examen project
+
+"Raumbelegungssoftware über Samply.Beam"
+
+- Backend-Connector SeaORM (Rust Object Related Mapper)
+- Library from the Tokio developer group
+
+- [Dokumentation] will follow
+
+### Tauri framework Extension
+
+![Tauri App](./HandyAppV2.svg)
+
+- Tauri for building lightweight, secure desktop applications using
+  web technologies
+- Backend(Rust) with a beam proxy combined
+- Frontend(Svelte.js, typescript)
+- Desktop app for Windows, Linux and Mac
+- [Overview](examen_docu/overview.md)
+
 # Tauri + SvelteKit
-
-This template should help get you started developing with Tauri and SvelteKit in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
