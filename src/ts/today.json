@@ -1,0 +1,289 @@
+[
+  {
+    "area_name": "Frankfurt",
+    "id": 2,
+    "rooms": [
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 5,
+        "participants": [
+          {
+            "id": 33,
+            "username": "May Müller"
+          },
+          {
+            "id": 44,
+            "username": "Erna Smith"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.109"
+      },
+      {
+        "capacity": 2,
+        "description": "Department Office",
+        "entry_id": 0,
+        "id": 6,
+        "participants": [
+          {
+            "id": 99,
+            "username": "Hannah Müller"
+          },
+          {
+            "id": 100,
+            "username": "Isabella Schmidt"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.110"
+      },
+      {
+        "capacity": 2,
+        "description": "Boss Office",
+        "entry_id": 0,
+        "id": 7,
+        "participants": [],
+        "registration_limit": 0,
+        "room_name": "S.2.111"
+      },
+      {
+        "capacity": 8,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 8,
+        "participants": [
+          {
+            "id": 1,
+            "username": "May Müller"
+          },
+          {
+            "id": 2,
+            "username": "Erna Smith"
+          },
+          {
+            "id": 3,
+            "username": "Lukas Müller"
+          },
+          {
+            "id": 4,
+            "username": "Sophia Schmidt"
+          },
+          {
+            "id": 5,
+            "username": "Emma Müller"
+          },
+          {
+            "id": 6,
+            "username": "Lena Schmidt"
+          },
+          {
+            "id": 7,
+            "username": "Hannah Müller"
+          },
+          {
+            "id": 8,
+            "username": "Isabella Schmidt"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.112"
+      },
+      {
+        "capacity": 4,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 2,
+        "participants": [
+          {
+            "id": 9,
+            "username": "David Müller"
+          },
+          {
+            "id": 10,
+            "username": "Alex Schmidt"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.124"
+      },
+      {
+        "capacity": 4,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 3,
+        "participants": [
+          {
+            "id": 11,
+            "username": "Oliver Müller"
+          },
+          {
+            "id": 12,
+            "username": "Lena Schmidt"
+          },
+          {
+            "id": 13,
+            "username": "Maya Müller"
+          },
+          {
+            "id": 14,
+            "username": "Julian Schmidt"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.125"
+      },
+      {
+        "capacity": 4,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 4,
+        "participants": [
+          {
+            "id": 15,
+            "username": "Hannah Müller"
+          },
+          {
+            "id": 16,
+            "username": "Isabella Schmidt"
+          },
+          {
+            "id": 17,
+            "username": "Emma Müller"
+          },
+          {
+            "id": 18,
+            "username": "Lukas Schneider"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "S.2.126"
+      }
+    ]
+  },
+  {
+    "area_name": "Karlsruhe",
+    "id": 3,
+    "rooms": [
+      {
+        "capacity": 4,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 9,
+        "participants": [
+          {
+            "id": 39,
+            "username": "Ava Patel"
+          },
+          {
+            "id": 40,
+            "username": "Ethan Kim"
+          },
+          {
+            "id": 41,
+            "username": "Liam Wong"
+          },
+          {
+            "id": 42,
+            "username": "Noah Garcia"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "002"
+      },
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 10,
+        "participants": [
+          {
+            "id": 43,
+            "username": "Isabella Santos"
+          },
+          {
+            "id": 44,
+            "username": "Julian Torres"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "004"
+      },
+      {
+        "capacity": 7,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 11,
+        "participants": [
+          {
+            "id": 45,
+            "username": "Sophia Hernandez"
+          },
+          {
+            "id": 46,
+            "username": "Liam Nguyen"
+          },
+          {
+            "id": 47,
+            "username": "Emma Tran"
+          },
+          {
+            "id": 48,
+            "username": "Noah Brown"
+          },
+          {
+            "id": 49,
+            "username": "Ava Lee"
+          },
+          {
+            "id": 50,
+            "username": "Ethan Hall"
+          },
+          {
+            "id": 51,
+            "username": "Maya Ramos"
+          }
+        ],
+        "registration_limit": 0,
+        "room_name": "006"
+      },
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 12,
+        "participants": [],
+        "registration_limit": 0,
+        "room_name": "039"
+      },
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 13,
+        "participants": [],
+        "registration_limit": 0,
+        "room_name": "041"
+      },
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 14,
+        "participants": [],
+        "registration_limit": 0,
+        "room_name": "044"
+      },
+      {
+        "capacity": 2,
+        "description": "Office",
+        "entry_id": 0,
+        "id": 15,
+        "participants": [],
+        "registration_limit": 0,
+        "room_name": "045"
+      }
+    ]
+  }
+]
