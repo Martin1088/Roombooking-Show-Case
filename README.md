@@ -1,6 +1,7 @@
 # Examen project Real-Time Room Booking and Occupancy
 
-show case with out [Samply.Beam](https://github.com/samply/beam)
+The project is a show case for a desktop and mobile app with [tauri](https://v2.tauri.app) + [Svelte.js](https://svelte.dev).
+This will only contain sample data with no functions to comunicate and extends the [Meeting Room Booking System](https://github.com/meeting-room-booking-system/mrbs-code).
 
 ## Examen project
 
